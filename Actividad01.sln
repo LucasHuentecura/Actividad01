@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad01", "Actividad01\Actividad01.csproj", "{7A0389D2-DA1F-4EB6-A627-2E40331007EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminEliminador", "AdminEliminador\AdminEliminador.csproj", "{C76F04BA-1603-4BD8-8B0E-A046ABD67829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0389D2-DA1F-4EB6-A627-2E40331007EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0389D2-DA1F-4EB6-A627-2E40331007EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0389D2-DA1F-4EB6-A627-2E40331007EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0389D2-DA1F-4EB6-A627-2E40331007EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76F04BA-1603-4BD8-8B0E-A046ABD67829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76F04BA-1603-4BD8-8B0E-A046ABD67829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76F04BA-1603-4BD8-8B0E-A046ABD67829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76F04BA-1603-4BD8-8B0E-A046ABD67829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6016A1-821E-418A-8224-F3A6A7969BF5}
+	EndGlobalSection
+EndGlobal
